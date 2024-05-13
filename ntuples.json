@@ -1,0 +1,60 @@
+{
+  "data": {
+    "DoubleMuon": {
+      "files": [
+        {
+          "path": "file:data/2631F9B1-3B3E-7E4A-BE75-FC57E322C981.root"
+        },
+        {
+          "path": "file:data/26A77DF8-54A5-7B44-B1BB-5B93CFF5C9C6.root"
+        }
+      ]
+    }
+  },
+  "GGZH": {
+    "nominal": {
+      "nevts_total": 76000,
+      "files": [
+        {
+          "path": "file:data/22E3F32E-496E-7944-9E5C-58F6464C016A.root",
+          "nevts": 20000
+        },
+        {
+          "path": "file:data/7421B999-5FAC-434F-8642-C93214F42B0A.root",
+          "nevts": 56000
+        }
+      ]
+    }
+  },
+  
+  "TT4": {
+    "nominal": {
+      "nevts_total": 454000,
+      "files": [
+        {
+          "path": "file:data/E5AF362D-0AD1-4645-B3CC-C132C24FAEF2.root",
+          "nevts":440000
+        },
+        {
+          "path": "file:data/081053F2-49A3-EA4B-967A-918D66247B0F.root",
+          "nevts":14000 
+        }
+      ]
+    }
+  },
+  "DYJETS": {
+    "nominal": {
+      "nevts_total": 2610309,
+      "files": [
+        {
+          "path": "file:data/14B6A8AE-C9FE-D744-80A4-DDE5D008C1CD.root",
+          "nevts": 1434319
+        },
+        {
+          "path": "file:data/1542B5DE-398C-0A4E-A970-9CD38709B98F.root",
+          "nevts": 1175990
+        }
+      ]
+    }
+  }
+}
